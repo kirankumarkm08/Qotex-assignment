@@ -1,0 +1,15 @@
+.currentWeather {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.weatherIcon {
+  width: 100px;
+  height: 100px;
+}
+
+.temperature {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0;
+}

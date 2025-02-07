@@ -1,0 +1,19 @@
+.forecast {
+  margin-top: 20px;
+}
+
+.forecastItems {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: auto;
+}
+
+.forecastItem {
+  text-align: center;
+  min-width: 100px;
+}
+
+.forecastItem img {
+  width: 50px;
+  height: 50px;
+}
